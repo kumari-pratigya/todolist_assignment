@@ -1,0 +1,12 @@
+.sideBar{
+    background-color:  #EEF6EF ;
+}
+.list{
+    background-color: white;
+}
+.list li:hover{
+    cursor: pointer;
+    color: green;
+    background-color: gainsboro;
+padding: 0;
+}

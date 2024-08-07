@@ -1,0 +1,17 @@
+.rightContent{
+    background-color:  hsl(127, 31%, 95%);
+    height: 90vh;
+
+}
+.firstList:first-child{
+    border-top: 1px solid grey;
+}
+.firstList{
+    height: 50px;
+    display:flex ;
+    align-items: center;
+    border-bottom: 1px solid grey;;
+}
+.firstList:hover{
+    cursor: pointer;
+}
